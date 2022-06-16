@@ -11,7 +11,7 @@ namespace WebRepasoAccesoD
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            int s = 0;
         }
 
         protected void Button1_Click(object sender, EventArgs e)
